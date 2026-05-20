@@ -1,0 +1,248 @@
+
+    .style-1000 {
+        background-color: rgb(0, 159, 219);
+        position: relative;
+        -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+        box-sizing: border-box;
+        margin: 0px;
+        padding: 0px;
+    }
+
+    .style-1111 {
+        width: 100%;
+        margin: auto;
+        max-width: 1324px;
+        padding: 0px 16px;
+        -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+        box-sizing: border-box;
+    }
+
+    .style-2222 {
+        display: flex;
+        width: 100%;
+        -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+        box-sizing: border-box;
+        margin: 0px;
+        padding: 0px;
+    }
+
+    .style-3333 {
+        justify-content: space-between;
+        align-items: center;
+        flex-basis: 100%;
+        max-width: 100%;
+        display: flex;
+        flex-direction: row;
+        flex: 1 0 auto;
+        padding: 16px;
+        -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+        box-sizing: border-box;
+        margin: 0px;
+    }
+
+    .style-4444 {
+        width: 100%;
+        -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+        box-sizing: border-box;
+        margin: 0px;
+        padding: 0px;
+    }
+
+    .style-5555 {
+        display: inline-block;
+        height: auto;
+        max-width: 100%;
+        -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+        box-sizing: border-box;
+        margin: 0px;
+        padding: 0px;
+    }
+
+    .style-6666 {
+        -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+        box-sizing: border-box;
+        margin: 0px;
+        padding: 0px;
+    }
+
+    .style-7777 {
+        gap: 16px;
+        display: flex;
+        flex-direction: row;
+        -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+        box-sizing: border-box;
+        margin: 0px;
+        padding: 0px;
+    }
+
+    .style-8888 {
+        height: 34px;
+        width: 34px;
+        transition: 0.3s;
+        color: rgb(255, 255, 255);
+        border-radius: 100%;
+        justify-content: center;
+        align-items: center;
+        display: flex;
+        cursor: pointer;
+        background-color: rgba(0, 0, 0, 0);
+        text-decoration: none;
+        -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+        box-sizing: border-box;
+        margin: 0px;
+        padding: 0px;
+    }
+
+    .style-9999 {
+        -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+        box-sizing: border-box;
+        margin: 0px;
+        padding: 0px;
+    }
+
+    .style-10000 {
+        display: inline-block;
+        height: auto;
+        max-width: 100%;
+        -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+        box-sizing: border-box;
+        margin: 0px;
+        padding: 0px;
+    }
+
+    .style-11000 {
+        fill: rgb(255, 255, 255);
+        -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+        box-sizing: border-box;
+        margin: 0px;
+        padding: 0px;
+    }
+
+    .style-12000 {
+        height: 34px;
+        width: 34px;
+        transition: 0.3s;
+        color: rgb(255, 255, 255);
+        border-radius: 100%;
+        justify-content: center;
+        align-items: center;
+        display: flex;
+        cursor: pointer;
+        background-color: rgba(0, 0, 0, 0);
+        text-decoration: none;
+        -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+        box-sizing: border-box;
+        margin: 0px;
+        padding: 0px;
+    }
+
+    .style-13000 {
+        -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+        box-sizing: border-box;
+        margin: 0px;
+        padding: 0px;
+    }
+
+    .style-14000 {
+        display: inline-block;
+        height: auto;
+        max-width: 100%;
+        -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+        box-sizing: border-box;
+        margin: 0px;
+        padding: 0px;
+    }
+
+    .style-15000 {
+        fill: rgb(255, 255, 255);
+        -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+        box-sizing: border-box;
+        margin: 0px;
+        padding: 0px;
+    }
+
+    .style-16000 {
+        height: 34px;
+        width: 34px;
+        transition: 0.3s;
+        color: rgb(255, 255, 255);
+        border-radius: 100%;
+        justify-content: center;
+        align-items: center;
+        display: flex;
+        cursor: pointer;
+        background-color: rgba(0, 0, 0, 0);
+        text-decoration: none;
+        -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+        box-sizing: border-box;
+        margin: 0px;
+        padding: 0px;
+    }
+
+    .style-17000 {
+        -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+        box-sizing: border-box;
+        margin: 0px;
+        padding: 0px;
+    }
+
+    .style-18000 {
+        display: inline-block;
+        height: auto;
+        max-width: 100%;
+        -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+        box-sizing: border-box;
+        margin: 0px;
+        padding: 0px;
+    }
+
+    .style-19000 {
+        fill: rgb(255, 255, 255);
+        -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+        box-sizing: border-box;
+        margin: 0px;
+        padding: 0px;
+    }
+
+    .style-20000 {
+        height: 34px;
+        width: 34px;
+        transition: 0.3s;
+        color: rgb(255, 255, 255);
+        border-radius: 100%;
+        justify-content: center;
+        align-items: center;
+        display: flex;
+        cursor: pointer;
+        background-color: rgba(0, 0, 0, 0);
+        text-decoration: none;
+        -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+        box-sizing: border-box;
+        margin: 0px;
+        padding: 0px;
+    }
+
+    .style-21000 {
+        -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+        box-sizing: border-box;
+        margin: 0px;
+        padding: 0px;
+    }
+
+    .style-22000 {
+        display: inline-block;
+        height: auto;
+        max-width: 100%;
+        -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+        box-sizing: border-box;
+        margin: 0px;
+        padding: 0px;
+    }
+
+    .style-23000 {
+        fill: rgb(255, 255, 255);
+        -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+        box-sizing: border-box;
+        margin: 0px;
+        padding: 0px;
+    }
